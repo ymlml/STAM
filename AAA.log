@@ -1,0 +1,870 @@
+/cs/vml/users/minlongl/libs/anaconda/anaconda/anaconda2/lib/python2.7/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+('Random Seed: ', 922)
+('Random Seed: ', 922)
+input video too short
+input video too short
+input video too short
+input video too short
+input video too short
+input video too short
+input video too short
+input video too short
+input video too short
+input video too short
+input video too short
+input video too short
+input video too short
+input video too short
+input video too short
+input video too short
+input video too short
+input video too short
+input video too short
+input video too short
+input video too short
+input video too short
+input video too short
+input video too short
+input video too short
+input video too short
+Step 0/64000.0
+0.1
+----------
+/cs/vml/users/minlongl/libs/anaconda/anaconda/anaconda2/lib/python2.7/site-packages/torch/nn/functional.py:2351: UserWarning: nn.functional.upsample is deprecated. Use nn.functional.interpolate instead.
+  warnings.warn("nn.functional.upsample is deprecated. Use nn.functional.interpolate instead.")
+/cs/vml/users/minlongl/libs/anaconda/anaconda/anaconda2/lib/python2.7/site-packages/torch/nn/functional.py:2423: UserWarning: Default upsampling behavior when mode=linear is changed to align_corners=False since 0.4.0. Please specify align_corners=True if the old behavior is desired. See the documentation of nn.Upsample for details.
+  "See the documentation of nn.Upsample for details.".format(mode))
+train Tot Loss: 2.0213 Gaze Loss: 0.5737 
+train Tot Loss: 2.4034 Gaze Loss: 0.2474 
+train Tot Loss: 2.6957 Gaze Loss: 0.2181 
+train Tot Loss: 2.8001 Gaze Loss: 0.2618 
+train Tot Loss: 2.8385 Gaze Loss: 0.2619 
+train Tot Loss: 2.5343 Gaze Loss: 0.2209 
+train Tot Loss: 2.7125 Gaze Loss: 0.1987 
+train Tot Loss: 2.7146 Gaze Loss: 0.1860 
+train Tot Loss: 2.7073 Gaze Loss: 0.1679 
+train Tot Loss: 2.6641 Gaze Loss: 0.1651 
+train Tot Loss: 2.4322 Gaze Loss: 0.1656 
+train Tot Loss: 2.7840 Gaze Loss: 0.3457 
+train Tot Loss: 2.8508 Gaze Loss: 0.2849 
+train Tot Loss: 2.8202 Gaze Loss: 0.2543 
+train Tot Loss: 2.8707 Gaze Loss: 0.1919 
+train Tot Loss: 2.6108 Gaze Loss: 0.1799 
+train Tot Loss: 2.6562 Gaze Loss: 0.1813 
+Step 172/64000.0
+0.1
+----------
+train Tot Loss: 2.0748 Gaze Loss: 0.1631 
+train Tot Loss: 2.5158 Gaze Loss: 0.1799 
+train Tot Loss: 2.6613 Gaze Loss: 0.2001 
+train Tot Loss: 2.4995 Gaze Loss: 0.1723 
+train Tot Loss: 2.5002 Gaze Loss: 0.1920 
+train Tot Loss: 2.3391 Gaze Loss: 0.1772 
+train Tot Loss: 2.3725 Gaze Loss: 0.1837 
+train Tot Loss: 2.4038 Gaze Loss: 0.1684 
+train Tot Loss: 2.2715 Gaze Loss: 0.1937 
+train Tot Loss: 2.3745 Gaze Loss: 0.1758 
+train Tot Loss: 2.8557 Gaze Loss: 0.4741 
+train Tot Loss: 3.1059 Gaze Loss: 0.5143 
+train Tot Loss: 2.9310 Gaze Loss: 0.4167 
+train Tot Loss: 2.8812 Gaze Loss: 0.2528 
+train Tot Loss: 2.6346 Gaze Loss: 0.3622 
+train Tot Loss: 2.7102 Gaze Loss: 0.2695 
+train Tot Loss: 2.6081 Gaze Loss: 0.3249 
+Step 344/64000.0
+0.01
+----------
+train Tot Loss: 1.4260 Gaze Loss: 0.1703 
+train Tot Loss: 2.4858 Gaze Loss: 0.2876 
+train Tot Loss: 2.2781 Gaze Loss: 0.3148 
+train Tot Loss: 2.3157 Gaze Loss: 0.3067 
+train Tot Loss: 2.2751 Gaze Loss: 0.2798 
+train Tot Loss: 2.2030 Gaze Loss: 0.2941 
+train Tot Loss: 2.2013 Gaze Loss: 0.3154 
+train Tot Loss: 2.1666 Gaze Loss: 0.3180 
+train Tot Loss: 2.3151 Gaze Loss: 0.2711 
+train Tot Loss: 2.0944 Gaze Loss: 0.3019 
+train Tot Loss: 2.1929 Gaze Loss: 0.3091 
+train Tot Loss: 2.0979 Gaze Loss: 0.2868 
+train Tot Loss: 2.0776 Gaze Loss: 0.3296 
+train Tot Loss: 1.9607 Gaze Loss: 0.2658 
+train Tot Loss: 2.1668 Gaze Loss: 0.3014 
+train Tot Loss: 2.1752 Gaze Loss: 0.2661 
+train Tot Loss: 1.9766 Gaze Loss: 0.2735 
+Step 516/64000.0
+0.01
+----------
+train Tot Loss: 0.8563 Gaze Loss: 0.1366 
+train Tot Loss: 2.0224 Gaze Loss: 0.2619 
+train Tot Loss: 1.8292 Gaze Loss: 0.3100 
+train Tot Loss: 2.0741 Gaze Loss: 0.3295 
+train Tot Loss: 2.0307 Gaze Loss: 0.2591 
+train Tot Loss: 1.8715 Gaze Loss: 0.3072 
+train Tot Loss: 1.9124 Gaze Loss: 0.3093 
+train Tot Loss: 2.1443 Gaze Loss: 0.2502 
+train Tot Loss: 1.9902 Gaze Loss: 0.2862 
+train Tot Loss: 2.0420 Gaze Loss: 0.3008 
+train Tot Loss: 1.9127 Gaze Loss: 0.2658 
+train Tot Loss: 1.9864 Gaze Loss: 0.2665 
+train Tot Loss: 1.9400 Gaze Loss: 0.2673 
+train Tot Loss: 1.9196 Gaze Loss: 0.3080 
+train Tot Loss: 1.9443 Gaze Loss: 0.2345 
+train Tot Loss: 1.9787 Gaze Loss: 0.2915 
+train Tot Loss: 1.8509 Gaze Loss: 0.2897 
+Step 688/64000.0
+0.01
+----------
+train Tot Loss: 0.4121 Gaze Loss: 0.0588 
+train Tot Loss: 1.6408 Gaze Loss: 0.2863 
+train Tot Loss: 1.8488 Gaze Loss: 0.3583 
+train Tot Loss: 1.8820 Gaze Loss: 0.2713 
+train Tot Loss: 1.8613 Gaze Loss: 0.2530 
+train Tot Loss: 1.8639 Gaze Loss: 0.3414 
+train Tot Loss: 1.8931 Gaze Loss: 0.2605 
+train Tot Loss: 1.9605 Gaze Loss: 0.2774 
+train Tot Loss: 1.9880 Gaze Loss: 0.2643 
+train Tot Loss: 1.9148 Gaze Loss: 0.2542 
+train Tot Loss: 1.8670 Gaze Loss: 0.2836 
+train Tot Loss: 1.8287 Gaze Loss: 0.2848 
+train Tot Loss: 1.9178 Gaze Loss: 0.2617 
+train Tot Loss: 1.8764 Gaze Loss: 0.2589 
+train Tot Loss: 1.8635 Gaze Loss: 0.2639 
+train Tot Loss: 1.8328 Gaze Loss: 0.2749 
+train Tot Loss: 1.8153 Gaze Loss: 0.2738 
+train Tot Loss: 1.7727 Gaze Loss: 0.2747 
+Step 860/64000.0
+0.01
+----------
+train Tot Loss: 1.8050 Gaze Loss: 0.2681 
+train Tot Loss: 1.8363 Gaze Loss: 0.2617 
+train Tot Loss: 1.8909 Gaze Loss: 0.2543 
+train Tot Loss: 1.7778 Gaze Loss: 0.2464 
+train Tot Loss: 1.8541 Gaze Loss: 0.2876 
+train Tot Loss: 1.7605 Gaze Loss: 0.2381 
+train Tot Loss: 1.6988 Gaze Loss: 0.2801 
+train Tot Loss: 1.8693 Gaze Loss: 0.2955 
+train Tot Loss: 1.7038 Gaze Loss: 0.2578 
+train Tot Loss: 1.8279 Gaze Loss: 0.2497 
+train Tot Loss: 1.7776 Gaze Loss: 0.2600 
+train Tot Loss: 1.8778 Gaze Loss: 0.2589 
+train Tot Loss: 1.8488 Gaze Loss: 0.2610 
+train Tot Loss: 1.7122 Gaze Loss: 0.2700 
+train Tot Loss: 1.7741 Gaze Loss: 0.2698 
+train Tot Loss: 1.8104 Gaze Loss: 0.2662 
+train Tot Loss: 1.8025 Gaze Loss: 0.2627 
+Step 1032/64000.0
+0.001
+----------
+train Tot Loss: 1.3849 Gaze Loss: 0.2098 
+train Tot Loss: 1.6976 Gaze Loss: 0.2691 
+train Tot Loss: 1.7033 Gaze Loss: 0.2605 
+train Tot Loss: 1.7143 Gaze Loss: 0.2689 
+train Tot Loss: 1.6353 Gaze Loss: 0.2728 
+train Tot Loss: 1.6861 Gaze Loss: 0.2779 
+train Tot Loss: 1.6790 Gaze Loss: 0.2750 
+train Tot Loss: 1.8419 Gaze Loss: 0.2659 
+train Tot Loss: 1.7079 Gaze Loss: 0.2538 
+train Tot Loss: 1.7735 Gaze Loss: 0.2599 
+train Tot Loss: 1.6414 Gaze Loss: 0.2602 
+train Tot Loss: 1.8573 Gaze Loss: 0.2707 
+train Tot Loss: 1.7217 Gaze Loss: 0.2609 
+train Tot Loss: 1.7328 Gaze Loss: 0.2583 
+train Tot Loss: 1.8360 Gaze Loss: 0.2542 
+train Tot Loss: 1.6754 Gaze Loss: 0.2610 
+train Tot Loss: 1.8204 Gaze Loss: 0.2557 
+Step 1204/64000.0
+0.001
+----------
+train Tot Loss: 1.0994 Gaze Loss: 0.1579 
+train Tot Loss: 1.7861 Gaze Loss: 0.2623 
+train Tot Loss: 1.7567 Gaze Loss: 0.2586 
+train Tot Loss: 1.8432 Gaze Loss: 0.2624 
+train Tot Loss: 1.7137 Gaze Loss: 0.2603 
+train Tot Loss: 1.6818 Gaze Loss: 0.2697 
+train Tot Loss: 1.7785 Gaze Loss: 0.2619 
+train Tot Loss: 1.6840 Gaze Loss: 0.2590 
+train Tot Loss: 1.7499 Gaze Loss: 0.2549 
+train Tot Loss: 1.6291 Gaze Loss: 0.2605 
+train Tot Loss: 1.6903 Gaze Loss: 0.2652 
+train Tot Loss: 1.6753 Gaze Loss: 0.2644 
+train Tot Loss: 1.7673 Gaze Loss: 0.2684 
+train Tot Loss: 1.6996 Gaze Loss: 0.2640 
+train Tot Loss: 1.6894 Gaze Loss: 0.2659 
+train Tot Loss: 1.7321 Gaze Loss: 0.2617 
+train Tot Loss: 1.6338 Gaze Loss: 0.2588 
+Step 1376/64000.0
+0.001
+----------
+train Tot Loss: 0.6428 Gaze Loss: 0.1046 
+train Tot Loss: 1.6555 Gaze Loss: 0.2623 
+train Tot Loss: 1.7518 Gaze Loss: 0.2683 
+train Tot Loss: 1.8033 Gaze Loss: 0.2729 
+train Tot Loss: 1.6797 Gaze Loss: 0.2688 
+train Tot Loss: 1.7217 Gaze Loss: 0.2601 
+train Tot Loss: 1.8433 Gaze Loss: 0.2562 
+train Tot Loss: 1.6025 Gaze Loss: 0.2518 
+train Tot Loss: 1.6064 Gaze Loss: 0.2666 
+train Tot Loss: 1.7610 Gaze Loss: 0.2768 
+train Tot Loss: 1.7161 Gaze Loss: 0.2741 
+train Tot Loss: 1.6418 Gaze Loss: 0.2707 
+train Tot Loss: 1.5953 Gaze Loss: 0.2829 
+train Tot Loss: 1.6938 Gaze Loss: 0.2748 
+train Tot Loss: 1.6926 Gaze Loss: 0.2704 
+train Tot Loss: 1.8356 Gaze Loss: 0.2685 
+train Tot Loss: 1.6957 Gaze Loss: 0.2619 
+Step 1548/64000.0
+0.001
+----------
+train Tot Loss: 0.3019 Gaze Loss: 0.0505 
+train Tot Loss: 1.8679 Gaze Loss: 0.2537 
+train Tot Loss: 1.6748 Gaze Loss: 0.2474 
+train Tot Loss: 1.8384 Gaze Loss: 0.2501 
+train Tot Loss: 1.7884 Gaze Loss: 0.2562 
+train Tot Loss: 1.7492 Gaze Loss: 0.2496 
+train Tot Loss: 1.7341 Gaze Loss: 0.2454 
+train Tot Loss: 1.6682 Gaze Loss: 0.2506 
+train Tot Loss: 1.6454 Gaze Loss: 0.2543 
+train Tot Loss: 1.8339 Gaze Loss: 0.2612 
+train Tot Loss: 1.7242 Gaze Loss: 0.2627 
+train Tot Loss: 1.7818 Gaze Loss: 0.2628 
+train Tot Loss: 1.6267 Gaze Loss: 0.2598 
+train Tot Loss: 1.7183 Gaze Loss: 0.2703 
+train Tot Loss: 1.6203 Gaze Loss: 0.2678 
+train Tot Loss: 1.7239 Gaze Loss: 0.2754 
+train Tot Loss: 1.6131 Gaze Loss: 0.2719 
+train Tot Loss: 1.8141 Gaze Loss: 0.2745 
+Step 1720/64000.0
+0.001
+----------
+train Tot Loss: 1.7412 Gaze Loss: 0.2646 
+train Tot Loss: 1.8141 Gaze Loss: 0.2604 
+train Tot Loss: 1.7632 Gaze Loss: 0.2524 
+train Tot Loss: 1.8030 Gaze Loss: 0.2551 
+train Tot Loss: 1.8058 Gaze Loss: 0.2529 
+train Tot Loss: 1.8819 Gaze Loss: 0.2512 
+train Tot Loss: 1.7712 Gaze Loss: 0.2488 
+train Tot Loss: 1.8480 Gaze Loss: 0.2476 
+train Tot Loss: 1.6358 Gaze Loss: 0.2370 
+train Tot Loss: 1.6177 Gaze Loss: 0.2420 
+train Tot Loss: 1.6699 Gaze Loss: 0.2490 
+train Tot Loss: 1.7888 Gaze Loss: 0.2620 
+train Tot Loss: 1.7763 Gaze Loss: 0.2586 
+train Tot Loss: 1.9082 Gaze Loss: 0.2545 
+train Tot Loss: 1.8861 Gaze Loss: 0.2419 
+train Tot Loss: 1.6407 Gaze Loss: 0.2366 
+train Tot Loss: 1.7668 Gaze Loss: 0.2516 
+Step 1892/64000.0
+0.001
+----------
+train Tot Loss: 1.3030 Gaze Loss: 0.2083 
+train Tot Loss: 1.7715 Gaze Loss: 0.2711 
+train Tot Loss: 1.7864 Gaze Loss: 0.2654 
+train Tot Loss: 1.5976 Gaze Loss: 0.2630 
+train Tot Loss: 1.8123 Gaze Loss: 0.2671 
+train Tot Loss: 1.7902 Gaze Loss: 0.2572 
+train Tot Loss: 1.7064 Gaze Loss: 0.2484 
+train Tot Loss: 1.6720 Gaze Loss: 0.2562 
+train Tot Loss: 1.5879 Gaze Loss: 0.2637 
+train Tot Loss: 1.6864 Gaze Loss: 0.2757 
+train Tot Loss: 1.7255 Gaze Loss: 0.2686 
+train Tot Loss: 1.8297 Gaze Loss: 0.2621 
+train Tot Loss: 1.7189 Gaze Loss: 0.2513 
+train Tot Loss: 1.7076 Gaze Loss: 0.2537 
+train Tot Loss: 1.7277 Gaze Loss: 0.2563 
+train Tot Loss: 1.6824 Gaze Loss: 0.2557 
+train Tot Loss: 1.7419 Gaze Loss: 0.2593 
+Step 2064/64000.0
+0.001
+----------
+train Tot Loss: 1.0425 Gaze Loss: 0.1579 
+train Tot Loss: 1.6245 Gaze Loss: 0.2678 
+train Tot Loss: 1.7033 Gaze Loss: 0.2652 
+train Tot Loss: 1.6735 Gaze Loss: 0.2636 
+train Tot Loss: 1.7467 Gaze Loss: 0.2629 
+train Tot Loss: 1.7604 Gaze Loss: 0.2610 
+train Tot Loss: 1.6021 Gaze Loss: 0.2556 
+train Tot Loss: 1.7903 Gaze Loss: 0.2571 
+train Tot Loss: 1.6886 Gaze Loss: 0.2505 
+train Tot Loss: 1.6890 Gaze Loss: 0.2547 
+train Tot Loss: 1.6931 Gaze Loss: 0.2567 
+train Tot Loss: 1.5926 Gaze Loss: 0.2582 
+train Tot Loss: 1.8212 Gaze Loss: 0.2661 
+train Tot Loss: 1.6660 Gaze Loss: 0.2629 
+train Tot Loss: 1.7326 Gaze Loss: 0.2572 
+train Tot Loss: 1.6229 Gaze Loss: 0.2639 
+train Tot Loss: 1.7735 Gaze Loss: 0.2609 
+Step 2236/64000.0
+0.001
+----------
+train Tot Loss: 0.6923 Gaze Loss: 0.1029 
+train Tot Loss: 1.6243 Gaze Loss: 0.2585 
+train Tot Loss: 1.5796 Gaze Loss: 0.2652 
+train Tot Loss: 1.6885 Gaze Loss: 0.2673 
+train Tot Loss: 1.6109 Gaze Loss: 0.2704 
+train Tot Loss: 1.7337 Gaze Loss: 0.2732 
+train Tot Loss: 1.6248 Gaze Loss: 0.2745 
+train Tot Loss: 1.6593 Gaze Loss: 0.2668 
+train Tot Loss: 1.7092 Gaze Loss: 0.2649 
+train Tot Loss: 1.8039 Gaze Loss: 0.2718 
+train Tot Loss: 1.7197 Gaze Loss: 0.2667 
+train Tot Loss: 1.6892 Gaze Loss: 0.2580 
+train Tot Loss: 1.7595 Gaze Loss: 0.2546 
+train Tot Loss: 1.6922 Gaze Loss: 0.2545 
+train Tot Loss: 1.7842 Gaze Loss: 0.2594 
+train Tot Loss: 1.7698 Gaze Loss: 0.2531 
+train Tot Loss: 1.7054 Gaze Loss: 0.2499 
+Step 2408/64000.0
+0.001
+----------
+train Tot Loss: 0.3171 Gaze Loss: 0.0481 
+train Tot Loss: 1.6986 Gaze Loss: 0.2602 
+train Tot Loss: 1.7471 Gaze Loss: 0.2642 
+train Tot Loss: 1.6162 Gaze Loss: 0.2621 
+train Tot Loss: 1.8578 Gaze Loss: 0.2576 
+train Tot Loss: 1.7218 Gaze Loss: 0.2542 
+train Tot Loss: 1.7962 Gaze Loss: 0.2560 
+train Tot Loss: 1.5915 Gaze Loss: 0.2522 
+train Tot Loss: 1.7080 Gaze Loss: 0.2528 
+train Tot Loss: 1.7606 Gaze Loss: 0.2593 
+train Tot Loss: 1.6001 Gaze Loss: 0.2686 
+train Tot Loss: 1.6915 Gaze Loss: 0.2686 
+train Tot Loss: 1.5355 Gaze Loss: 0.2655 
+train Tot Loss: 1.6329 Gaze Loss: 0.2697 
+train Tot Loss: 1.6983 Gaze Loss: 0.2728 
+train Tot Loss: 1.6124 Gaze Loss: 0.2721 
+train Tot Loss: 1.6086 Gaze Loss: 0.2753 
+train Tot Loss: 1.7788 Gaze Loss: 0.2758 
+Step 2580/64000.0
+0.001
+----------
+train Tot Loss: 1.6391 Gaze Loss: 0.2626 
+train Tot Loss: 1.7963 Gaze Loss: 0.2597 
+train Tot Loss: 1.8259 Gaze Loss: 0.2545 
+train Tot Loss: 1.6271 Gaze Loss: 0.2469 
+train Tot Loss: 1.5846 Gaze Loss: 0.2532 
+train Tot Loss: 1.6073 Gaze Loss: 0.2579 
+train Tot Loss: 1.7037 Gaze Loss: 0.2618 
+train Tot Loss: 1.7027 Gaze Loss: 0.2644 
+train Tot Loss: 1.7251 Gaze Loss: 0.2596 
+train Tot Loss: 1.6307 Gaze Loss: 0.2560 
+train Tot Loss: 1.6978 Gaze Loss: 0.2510 
+train Tot Loss: 1.7523 Gaze Loss: 0.2662 
+train Tot Loss: 1.7225 Gaze Loss: 0.2636 
+train Tot Loss: 1.6536 Gaze Loss: 0.2525 
+train Tot Loss: 1.6307 Gaze Loss: 0.2593 
+train Tot Loss: 1.5764 Gaze Loss: 0.2689 
+train Tot Loss: 1.6962 Gaze Loss: 0.2736 
+Step 2752/64000.0
+0.001
+----------
+train Tot Loss: 1.3830 Gaze Loss: 0.2138 
+train Tot Loss: 1.7332 Gaze Loss: 0.2627 
+train Tot Loss: 1.6505 Gaze Loss: 0.2573 
+train Tot Loss: 1.6232 Gaze Loss: 0.2512 
+train Tot Loss: 1.6674 Gaze Loss: 0.2543 
+train Tot Loss: 1.6486 Gaze Loss: 0.2535 
+train Tot Loss: 1.6160 Gaze Loss: 0.2538 
+train Tot Loss: 1.7867 Gaze Loss: 0.2612 
+train Tot Loss: 1.7680 Gaze Loss: 0.2538 
+train Tot Loss: 1.7432 Gaze Loss: 0.2566 
+train Tot Loss: 1.6917 Gaze Loss: 0.2504 
+train Tot Loss: 1.6737 Gaze Loss: 0.2532 
+train Tot Loss: 1.5885 Gaze Loss: 0.2518 
+train Tot Loss: 1.8303 Gaze Loss: 0.2602 
+train Tot Loss: 1.7781 Gaze Loss: 0.2529 
+train Tot Loss: 1.6931 Gaze Loss: 0.2469 
+train Tot Loss: 1.6833 Gaze Loss: 0.2472 
+Step 2924/64000.0
+0.001
+----------
+train Tot Loss: 1.0239 Gaze Loss: 0.1581 
+train Tot Loss: 1.8133 Gaze Loss: 0.2654 
+train Tot Loss: 1.7952 Gaze Loss: 0.2617 
+train Tot Loss: 1.6761 Gaze Loss: 0.2502 
+train Tot Loss: 1.5806 Gaze Loss: 0.2442 
+train Tot Loss: 1.6791 Gaze Loss: 0.2523 
+train Tot Loss: 1.7238 Gaze Loss: 0.2607 
+train Tot Loss: 1.6362 Gaze Loss: 0.2552 
+train Tot Loss: 1.6673 Gaze Loss: 0.2563 
+train Tot Loss: 1.5919 Gaze Loss: 0.2634 
+train Tot Loss: 1.7450 Gaze Loss: 0.2598 
+train Tot Loss: 1.6831 Gaze Loss: 0.2493 
+train Tot Loss: 1.6939 Gaze Loss: 0.2507 
+train Tot Loss: 1.6896 Gaze Loss: 0.2492 
+train Tot Loss: 1.7560 Gaze Loss: 0.2508 
+train Tot Loss: 1.7160 Gaze Loss: 0.2533 
+train Tot Loss: 1.6467 Gaze Loss: 0.2563 
+Step 3096/64000.0
+0.001
+----------
+train Tot Loss: 0.6983 Gaze Loss: 0.1012 
+train Tot Loss: 1.7786 Gaze Loss: 0.2593 
+train Tot Loss: 1.7704 Gaze Loss: 0.2499 
+train Tot Loss: 1.7168 Gaze Loss: 0.2471 
+train Tot Loss: 1.6656 Gaze Loss: 0.2480 
+train Tot Loss: 1.7592 Gaze Loss: 0.2490 
+train Tot Loss: 1.6731 Gaze Loss: 0.2442 
+train Tot Loss: 1.5845 Gaze Loss: 0.2435 
+train Tot Loss: 1.5168 Gaze Loss: 0.2507 
+train Tot Loss: 1.7312 Gaze Loss: 0.2741 
+train Tot Loss: 1.6833 Gaze Loss: 0.2674 
+train Tot Loss: 1.6121 Gaze Loss: 0.2661 
+train Tot Loss: 1.7553 Gaze Loss: 0.2674 
+train Tot Loss: 1.6825 Gaze Loss: 0.2547 
+train Tot Loss: 1.6330 Gaze Loss: 0.2483 
+train Tot Loss: 1.6932 Gaze Loss: 0.2475 
+train Tot Loss: 1.6660 Gaze Loss: 0.2467 
+Step 3268/64000.0
+0.001
+----------
+train Tot Loss: 0.3667 Gaze Loss: 0.0497 
+train Tot Loss: 1.5782 Gaze Loss: 0.2589 
+train Tot Loss: 1.5757 Gaze Loss: 0.2642 
+train Tot Loss: 1.6446 Gaze Loss: 0.2746 
+train Tot Loss: 1.6868 Gaze Loss: 0.2669 
+train Tot Loss: 1.7698 Gaze Loss: 0.2619 
+train Tot Loss: 1.7159 Gaze Loss: 0.2545 
+train Tot Loss: 1.7658 Gaze Loss: 0.2471 
+train Tot Loss: 1.6368 Gaze Loss: 0.2442 
+train Tot Loss: 1.7191 Gaze Loss: 0.2447 
+train Tot Loss: 1.6974 Gaze Loss: 0.2438 
+train Tot Loss: 1.7040 Gaze Loss: 0.2468 
+train Tot Loss: 1.6828 Gaze Loss: 0.2497 
+train Tot Loss: 1.7577 Gaze Loss: 0.2492 
+train Tot Loss: 1.6904 Gaze Loss: 0.2501 
+train Tot Loss: 1.5875 Gaze Loss: 0.2539 
+train Tot Loss: 1.7253 Gaze Loss: 0.2584 
+train Tot Loss: 1.8069 Gaze Loss: 0.2541 
+Step 3440/64000.0
+0.001
+----------
+train Tot Loss: 1.6853 Gaze Loss: 0.2487 
+train Tot Loss: 1.5859 Gaze Loss: 0.2456 
+train Tot Loss: 1.6307 Gaze Loss: 0.2562 
+train Tot Loss: 1.7994 Gaze Loss: 0.2572 
+train Tot Loss: 1.6159 Gaze Loss: 0.2547 
+train Tot Loss: 1.6350 Gaze Loss: 0.2540 
+train Tot Loss: 1.6033 Gaze Loss: 0.2639 
+train Tot Loss: 1.6251 Gaze Loss: 0.2669 
+train Tot Loss: 1.7510 Gaze Loss: 0.2622 
+train Tot Loss: 1.6671 Gaze Loss: 0.2417 
+train Tot Loss: 1.7535 Gaze Loss: 0.2416 
+train Tot Loss: 1.6219 Gaze Loss: 0.2432 
+train Tot Loss: 1.8816 Gaze Loss: 0.2505 
+train Tot Loss: 1.6652 Gaze Loss: 0.2397 
+train Tot Loss: 1.7923 Gaze Loss: 0.2433 
+train Tot Loss: 1.5902 Gaze Loss: 0.2366 
+train Tot Loss: 1.6309 Gaze Loss: 0.2478 
+Step 3612/64000.0
+0.001
+----------
+train Tot Loss: 1.2600 Gaze Loss: 0.2043 
+train Tot Loss: 1.5972 Gaze Loss: 0.2633 
+train Tot Loss: 1.7041 Gaze Loss: 0.2673 
+train Tot Loss: 1.7102 Gaze Loss: 0.2634 
+train Tot Loss: 1.6555 Gaze Loss: 0.2570 
+train Tot Loss: 1.6729 Gaze Loss: 0.2485 
+train Tot Loss: 1.5694 Gaze Loss: 0.2477 
+train Tot Loss: 1.6073 Gaze Loss: 0.2508 
+train Tot Loss: 1.6172 Gaze Loss: 0.2624 
+train Tot Loss: 1.5513 Gaze Loss: 0.2708 
+train Tot Loss: 1.7544 Gaze Loss: 0.2697 
+train Tot Loss: 1.7039 Gaze Loss: 0.2656 
+train Tot Loss: 1.6368 Gaze Loss: 0.2502 
+train Tot Loss: 1.6673 Gaze Loss: 0.2483 
+train Tot Loss: 1.8423 Gaze Loss: 0.2509 
+train Tot Loss: 1.7526 Gaze Loss: 0.2454 
+train Tot Loss: 1.7820 Gaze Loss: 0.2461 
+Step 3784/64000.0
+0.001
+----------
+train Tot Loss: 1.0248 Gaze Loss: 0.1502 
+train Tot Loss: 1.7219 Gaze Loss: 0.2585 
+train Tot Loss: 1.6411 Gaze Loss: 0.2706 
+train Tot Loss: 1.6681 Gaze Loss: 0.2627 
+train Tot Loss: 1.5776 Gaze Loss: 0.2529 
+train Tot Loss: 1.5629 Gaze Loss: 0.2566 
+train Tot Loss: 1.5890 Gaze Loss: 0.2614 
+train Tot Loss: 1.6977 Gaze Loss: 0.2562 
+train Tot Loss: 1.5176 Gaze Loss: 0.2484 
+train Tot Loss: 1.5989 Gaze Loss: 0.2506 
+train Tot Loss: 1.4481 Gaze Loss: 0.2574 
+train Tot Loss: 1.7691 Gaze Loss: 0.2696 
+train Tot Loss: 1.6778 Gaze Loss: 0.2617 
+train Tot Loss: 1.6378 Gaze Loss: 0.2566 
+train Tot Loss: 1.7046 Gaze Loss: 0.2520 
+train Tot Loss: 1.6896 Gaze Loss: 0.2477 
+train Tot Loss: 1.6391 Gaze Loss: 0.2476 
+Step 3956/64000.0
+0.001
+----------
+train Tot Loss: 0.6664 Gaze Loss: 0.1041 
+train Tot Loss: 1.6778 Gaze Loss: 0.2540 
+train Tot Loss: 1.5767 Gaze Loss: 0.2551 
+train Tot Loss: 1.6139 Gaze Loss: 0.2590 
+train Tot Loss: 1.7416 Gaze Loss: 0.2614 
+train Tot Loss: 1.5761 Gaze Loss: 0.2642 
+train Tot Loss: 1.6141 Gaze Loss: 0.2640 
+train Tot Loss: 1.6438 Gaze Loss: 0.2612 
+train Tot Loss: 1.5301 Gaze Loss: 0.2596 
+train Tot Loss: 1.5873 Gaze Loss: 0.2638 
+train Tot Loss: 1.6585 Gaze Loss: 0.2628 
+train Tot Loss: 1.5556 Gaze Loss: 0.2731 
+train Tot Loss: 1.7362 Gaze Loss: 0.2663 
+train Tot Loss: 1.7321 Gaze Loss: 0.2578 
+train Tot Loss: 1.7125 Gaze Loss: 0.2520 
+train Tot Loss: 1.6523 Gaze Loss: 0.2476 
+train Tot Loss: 1.7932 Gaze Loss: 0.2422 
+Step 4128/64000.0
+0.001
+----------
+train Tot Loss: 0.3437 Gaze Loss: 0.0477 
+train Tot Loss: 1.6376 Gaze Loss: 0.2455 
+train Tot Loss: 1.5331 Gaze Loss: 0.2513 
+train Tot Loss: 1.6275 Gaze Loss: 0.2596 
+train Tot Loss: 1.7684 Gaze Loss: 0.2666 
+train Tot Loss: 1.6060 Gaze Loss: 0.2504 
+train Tot Loss: 1.8233 Gaze Loss: 0.2430 
+train Tot Loss: 1.7089 Gaze Loss: 0.2430 
+train Tot Loss: 1.5638 Gaze Loss: 0.2422 
+train Tot Loss: 1.7177 Gaze Loss: 0.2408 
+train Tot Loss: 1.4856 Gaze Loss: 0.2536 
+train Tot Loss: 1.6082 Gaze Loss: 0.2676 
+train Tot Loss: 1.5955 Gaze Loss: 0.2664 
+train Tot Loss: 1.6947 Gaze Loss: 0.2676 
+train Tot Loss: 1.7015 Gaze Loss: 0.2561 
+train Tot Loss: 1.7936 Gaze Loss: 0.2531 
+train Tot Loss: 1.6702 Gaze Loss: 0.2454 
+train Tot Loss: 1.5534 Gaze Loss: 0.2446 
+Step 4300/64000.0
+0.001
+----------
+train Tot Loss: 1.6364 Gaze Loss: 0.2529 
+train Tot Loss: 1.5681 Gaze Loss: 0.2581 
+train Tot Loss: 1.7157 Gaze Loss: 0.2636 
+train Tot Loss: 1.7016 Gaze Loss: 0.2526 
+train Tot Loss: 1.5480 Gaze Loss: 0.2484 
+train Tot Loss: 1.6047 Gaze Loss: 0.2503 
+train Tot Loss: 1.6975 Gaze Loss: 0.2575 
+train Tot Loss: 1.6223 Gaze Loss: 0.2495 
+train Tot Loss: 1.5129 Gaze Loss: 0.2612 
+train Tot Loss: 1.5912 Gaze Loss: 0.2652 
+train Tot Loss: 1.6307 Gaze Loss: 0.2613 
+train Tot Loss: 1.5499 Gaze Loss: 0.2551 
+train Tot Loss: 1.6958 Gaze Loss: 0.2535 
+train Tot Loss: 1.6139 Gaze Loss: 0.2550 
+train Tot Loss: 1.6601 Gaze Loss: 0.2595 
+train Tot Loss: 1.6093 Gaze Loss: 0.2570 
+train Tot Loss: 1.7141 Gaze Loss: 0.2579 
+Step 4472/64000.0
+0.001
+----------
+train Tot Loss: 1.3699 Gaze Loss: 0.2033 
+train Tot Loss: 1.6887 Gaze Loss: 0.2560 
+train Tot Loss: 1.5376 Gaze Loss: 0.2535 
+train Tot Loss: 1.6655 Gaze Loss: 0.2617 
+train Tot Loss: 1.6853 Gaze Loss: 0.2660 
+train Tot Loss: 1.6996 Gaze Loss: 0.2554 
+train Tot Loss: 1.5232 Gaze Loss: 0.2504 
+train Tot Loss: 1.5677 Gaze Loss: 0.2598 
+train Tot Loss: 1.6593 Gaze Loss: 0.2622 
+train Tot Loss: 1.5614 Gaze Loss: 0.2643 
+train Tot Loss: 1.5398 Gaze Loss: 0.2642 
+train Tot Loss: 1.5833 Gaze Loss: 0.2668 
+train Tot Loss: 1.5917 Gaze Loss: 0.2715 
+train Tot Loss: 1.5616 Gaze Loss: 0.2724 
+train Tot Loss: 1.5523 Gaze Loss: 0.2714 
+train Tot Loss: 1.7334 Gaze Loss: 0.2676 
+train Tot Loss: 1.6643 Gaze Loss: 0.2556 
+Step 4644/64000.0
+0.001
+----------
+train Tot Loss: 0.8698 Gaze Loss: 0.1423 
+train Tot Loss: 1.6353 Gaze Loss: 0.2431 
+train Tot Loss: 1.7215 Gaze Loss: 0.2544 
+train Tot Loss: 1.5347 Gaze Loss: 0.2437 
+train Tot Loss: 1.6552 Gaze Loss: 0.2512 
+train Tot Loss: 1.7849 Gaze Loss: 0.2535 
+train Tot Loss: 1.5889 Gaze Loss: 0.2510 
+train Tot Loss: 1.6363 Gaze Loss: 0.2602 
+train Tot Loss: 1.5922 Gaze Loss: 0.2630 
+train Tot Loss: 1.5927 Gaze Loss: 0.2688 
+train Tot Loss: 1.6395 Gaze Loss: 0.2655 
+train Tot Loss: 1.6697 Gaze Loss: 0.2640 
+train Tot Loss: 1.7631 Gaze Loss: 0.2577 
+train Tot Loss: 1.7164 Gaze Loss: 0.2496 
+train Tot Loss: 1.5706 Gaze Loss: 0.2457 
+train Tot Loss: 1.4825 Gaze Loss: 0.2530 
+train Tot Loss: 1.4339 Gaze Loss: 0.2594 
+Step 4816/64000.0
+0.001
+----------
+train Tot Loss: 0.6304 Gaze Loss: 0.1079 
+train Tot Loss: 1.5423 Gaze Loss: 0.2656 
+train Tot Loss: 1.6082 Gaze Loss: 0.2686 
+train Tot Loss: 1.5400 Gaze Loss: 0.2665 
+train Tot Loss: 1.6443 Gaze Loss: 0.2646 
+train Tot Loss: 1.7250 Gaze Loss: 0.2636 
+train Tot Loss: 1.6400 Gaze Loss: 0.2514 
+train Tot Loss: 1.5984 Gaze Loss: 0.2599 
+train Tot Loss: 1.5232 Gaze Loss: 0.2623 
+train Tot Loss: 1.6095 Gaze Loss: 0.2674 
+train Tot Loss: 1.6751 Gaze Loss: 0.2632 
+train Tot Loss: 1.6095 Gaze Loss: 0.2585 
+train Tot Loss: 1.5651 Gaze Loss: 0.2507 
+train Tot Loss: 1.6001 Gaze Loss: 0.2555 
+train Tot Loss: 1.5887 Gaze Loss: 0.2552 
+train Tot Loss: 1.5914 Gaze Loss: 0.2589 
+train Tot Loss: 1.5108 Gaze Loss: 0.2579 
+Step 4988/64000.0
+0.001
+----------
+train Tot Loss: 0.3031 Gaze Loss: 0.0515 
+train Tot Loss: 1.4977 Gaze Loss: 0.2596 
+train Tot Loss: 1.7045 Gaze Loss: 0.2614 
+train Tot Loss: 1.6113 Gaze Loss: 0.2585 
+train Tot Loss: 1.6230 Gaze Loss: 0.2528 
+train Tot Loss: 1.6297 Gaze Loss: 0.2419 
+train Tot Loss: 1.8580 Gaze Loss: 0.2486 
+train Tot Loss: 1.5001 Gaze Loss: 0.2427 
+train Tot Loss: 1.5667 Gaze Loss: 0.2559 
+train Tot Loss: 1.5688 Gaze Loss: 0.2659 
+train Tot Loss: 1.5779 Gaze Loss: 0.2751 
+train Tot Loss: 1.7121 Gaze Loss: 0.2711 
+train Tot Loss: 1.4926 Gaze Loss: 0.2639 
+train Tot Loss: 1.5701 Gaze Loss: 0.2705 
+train Tot Loss: 1.6568 Gaze Loss: 0.2606 
+train Tot Loss: 1.6553 Gaze Loss: 0.2529 
+train Tot Loss: 1.3868 Gaze Loss: 0.2498 
+train Tot Loss: 1.7035 Gaze Loss: 0.2673 
+Step 5160/64000.0
+0.001
+----------
+train Tot Loss: 1.6242 Gaze Loss: 0.2569 
+train Tot Loss: 1.6026 Gaze Loss: 0.2563 
+train Tot Loss: 1.7767 Gaze Loss: 0.2506 
+train Tot Loss: 1.7025 Gaze Loss: 0.2472 
+train Tot Loss: 1.6011 Gaze Loss: 0.2410 
+train Tot Loss: 1.5138 Gaze Loss: 0.2451 
+train Tot Loss: 1.5499 Gaze Loss: 0.2555 
+train Tot Loss: 1.6324 Gaze Loss: 0.2625 
+train Tot Loss: 1.6995 Gaze Loss: 0.2671 
+train Tot Loss: 1.5397 Gaze Loss: 0.2527 
+train Tot Loss: 1.7397 Gaze Loss: 0.2462 
+train Tot Loss: 1.5473 Gaze Loss: 0.2488 
+train Tot Loss: 1.5555 Gaze Loss: 0.2518 
+train Tot Loss: 1.6596 Gaze Loss: 0.2562 
+train Tot Loss: 1.6829 Gaze Loss: 0.2570 
+train Tot Loss: 1.6077 Gaze Loss: 0.2621 
+train Tot Loss: 1.6628 Gaze Loss: 0.2562 
+Step 5332/64000.0
+0.001
+----------
+train Tot Loss: 1.3010 Gaze Loss: 0.2095 
+train Tot Loss: 1.6168 Gaze Loss: 0.2517 
+train Tot Loss: 1.5291 Gaze Loss: 0.2453 
+train Tot Loss: 1.6239 Gaze Loss: 0.2553 
+train Tot Loss: 1.7114 Gaze Loss: 0.2607 
+train Tot Loss: 1.7146 Gaze Loss: 0.2498 
+train Tot Loss: 1.7206 Gaze Loss: 0.2397 
+train Tot Loss: 1.5430 Gaze Loss: 0.2419 
+train Tot Loss: 1.6734 Gaze Loss: 0.2477 
+train Tot Loss: 1.5808 Gaze Loss: 0.2504 
+train Tot Loss: 1.5821 Gaze Loss: 0.2599 
+train Tot Loss: 1.6181 Gaze Loss: 0.2585 
+train Tot Loss: 1.7602 Gaze Loss: 0.2519 
+train Tot Loss: 1.4526 Gaze Loss: 0.2455 
+train Tot Loss: 1.6666 Gaze Loss: 0.2507 
+train Tot Loss: 1.6340 Gaze Loss: 0.2492 
+train Tot Loss: 1.5894 Gaze Loss: 0.2431 
+Step 5504/64000.0
+0.001
+----------
+train Tot Loss: 0.9408 Gaze Loss: 0.1516 
+train Tot Loss: 1.5863 Gaze Loss: 0.2540 
+train Tot Loss: 1.6491 Gaze Loss: 0.2592 
+train Tot Loss: 1.7379 Gaze Loss: 0.2635 
+train Tot Loss: 1.6470 Gaze Loss: 0.2498 
+train Tot Loss: 1.4785 Gaze Loss: 0.2419 
+train Tot Loss: 1.6736 Gaze Loss: 0.2539 
+train Tot Loss: 1.6629 Gaze Loss: 0.2526 
+train Tot Loss: 1.7307 Gaze Loss: 0.2505 
+train Tot Loss: 1.5853 Gaze Loss: 0.2440 
+train Tot Loss: 1.4934 Gaze Loss: 0.2459 
+train Tot Loss: 1.6778 Gaze Loss: 0.2575 
+train Tot Loss: 1.6445 Gaze Loss: 0.2657 
+train Tot Loss: 1.4799 Gaze Loss: 0.2555 
+train Tot Loss: 1.5267 Gaze Loss: 0.2610 
+train Tot Loss: 1.5727 Gaze Loss: 0.2611 
+train Tot Loss: 1.5842 Gaze Loss: 0.2603 
+Step 5676/64000.0
+0.001
+----------
+train Tot Loss: 0.6472 Gaze Loss: 0.1038 
+train Tot Loss: 1.7133 Gaze Loss: 0.2591 
+train Tot Loss: 1.6481 Gaze Loss: 0.2552 
+train Tot Loss: 1.6042 Gaze Loss: 0.2528 
+train Tot Loss: 1.5769 Gaze Loss: 0.2540 
+train Tot Loss: 1.6657 Gaze Loss: 0.2593 
+train Tot Loss: 1.7122 Gaze Loss: 0.2498 
+train Tot Loss: 1.6420 Gaze Loss: 0.2426 
+train Tot Loss: 1.7617 Gaze Loss: 0.2354 
+train Tot Loss: 1.6521 Gaze Loss: 0.2436 
+train Tot Loss: 1.5074 Gaze Loss: 0.2411 
+train Tot Loss: 1.6465 Gaze Loss: 0.2491 
+train Tot Loss: 1.5375 Gaze Loss: 0.2616 
+train Tot Loss: 1.6618 Gaze Loss: 0.2658 
+train Tot Loss: 1.5352 Gaze Loss: 0.2601 
+train Tot Loss: 1.6949 Gaze Loss: 0.2574 
+train Tot Loss: 1.5703 Gaze Loss: 0.2468 
+Step 5848/64000.0
+0.001
+----------
+train Tot Loss: 0.3095 Gaze Loss: 0.0482 
+train Tot Loss: 1.6123 Gaze Loss: 0.2385 
+train Tot Loss: 1.6468 Gaze Loss: 0.2399 
+train Tot Loss: 1.5210 Gaze Loss: 0.2419 
+train Tot Loss: 1.5877 Gaze Loss: 0.2547 
+train Tot Loss: 1.5731 Gaze Loss: 0.2558 
+train Tot Loss: 1.7800 Gaze Loss: 0.2571 
+train Tot Loss: 1.5380 Gaze Loss: 0.2479 
+train Tot Loss: 1.6299 Gaze Loss: 0.2501 
+train Tot Loss: 1.6275 Gaze Loss: 0.2537 
+train Tot Loss: 1.6907 Gaze Loss: 0.2496 
+train Tot Loss: 1.5518 Gaze Loss: 0.2573 
+train Tot Loss: 1.5494 Gaze Loss: 0.2572 
+train Tot Loss: 1.6334 Gaze Loss: 0.2563 
+train Tot Loss: 1.5448 Gaze Loss: 0.2576 
+train Tot Loss: 1.7328 Gaze Loss: 0.2594 
+train Tot Loss: 1.5735 Gaze Loss: 0.2474 
+train Tot Loss: 1.6863 Gaze Loss: 0.2421 
+Step 6020/64000.0
+0.001
+----------
+train Tot Loss: 1.7537 Gaze Loss: 0.2348 
+train Tot Loss: 1.5341 Gaze Loss: 0.2456 
+train Tot Loss: 1.7010 Gaze Loss: 0.2488 
+train Tot Loss: 1.5503 Gaze Loss: 0.2479 
+train Tot Loss: 1.5957 Gaze Loss: 0.2601 
+train Tot Loss: 1.6277 Gaze Loss: 0.2564 
+train Tot Loss: 1.5042 Gaze Loss: 0.2513 
+train Tot Loss: 1.5625 Gaze Loss: 0.2457 
+train Tot Loss: 1.6531 Gaze Loss: 0.2496 
+train Tot Loss: 1.7723 Gaze Loss: 0.2451 
+train Tot Loss: 1.5339 Gaze Loss: 0.2484 
+train Tot Loss: 1.7310 Gaze Loss: 0.2440 
+train Tot Loss: 1.6997 Gaze Loss: 0.2397 
+train Tot Loss: 1.5961 Gaze Loss: 0.2411 
+train Tot Loss: 1.5130 Gaze Loss: 0.2483 
+train Tot Loss: 1.6613 Gaze Loss: 0.2532 
+train Tot Loss: 1.5300 Gaze Loss: 0.2602 
+Step 6192/64000.0
+0.001
+----------
+train Tot Loss: 1.4141 Gaze Loss: 0.2086 
+train Tot Loss: 1.5503 Gaze Loss: 0.2543 
+train Tot Loss: 1.6513 Gaze Loss: 0.2517 
+train Tot Loss: 1.5432 Gaze Loss: 0.2497 
+train Tot Loss: 1.8615 Gaze Loss: 0.2521 
+train Tot Loss: 1.5863 Gaze Loss: 0.2459 
+train Tot Loss: 1.7292 Gaze Loss: 0.2440 
+train Tot Loss: 1.4734 Gaze Loss: 0.2414 
+train Tot Loss: 1.6218 Gaze Loss: 0.2394 
+train Tot Loss: 1.4957 Gaze Loss: 0.2557 
+train Tot Loss: 1.6679 Gaze Loss: 0.2639 
+train Tot Loss: 1.6082 Gaze Loss: 0.2605 
+train Tot Loss: 1.5058 Gaze Loss: 0.2531 
+train Tot Loss: 1.5297 Gaze Loss: 0.2599 
+train Tot Loss: 1.6163 Gaze Loss: 0.2610 
+train Tot Loss: 1.3523 Gaze Loss: 0.2593 
+train Tot Loss: 1.7255 Gaze Loss: 0.2570 
+Step 6364/64000.0
+0.001
+----------
+train Tot Loss: 1.0444 Gaze Loss: 0.1491 
+train Tot Loss: 1.6679 Gaze Loss: 0.2422 
+train Tot Loss: 1.4359 Gaze Loss: 0.2371 
+train Tot Loss: 1.5644 Gaze Loss: 0.2458 
+train Tot Loss: 1.7260 Gaze Loss: 0.2584 
+train Tot Loss: 1.7124 Gaze Loss: 0.2465 
+train Tot Loss: 1.5193 Gaze Loss: 0.2349 
+train Tot Loss: 1.5833 Gaze Loss: 0.2391 
+train Tot Loss: 1.6588 Gaze Loss: 0.2556 
+train Tot Loss: 1.7239 Gaze Loss: 0.2502 
+train Tot Loss: 1.4918 Gaze Loss: 0.2452 
+train Tot Loss: 1.6040 Gaze Loss: 0.2494 
+train Tot Loss: 1.5695 Gaze Loss: 0.2552 
+train Tot Loss: 1.6263 Gaze Loss: 0.2574 
+train Tot Loss: 1.5158 Gaze Loss: 0.2549 
+train Tot Loss: 1.5391 Gaze Loss: 0.2512 
+train Tot Loss: 1.5480 Gaze Loss: 0.2576 
+Step 6536/64000.0
+0.001
+----------
+train Tot Loss: 0.6468 Gaze Loss: 0.1010 
+train Tot Loss: 1.6916 Gaze Loss: 0.2571 
+train Tot Loss: 1.5777 Gaze Loss: 0.2526 
+train Tot Loss: 1.5928 Gaze Loss: 0.2471 
+train Tot Loss: 1.5334 Gaze Loss: 0.2520 
+train Tot Loss: 1.5486 Gaze Loss: 0.2578 
+train Tot Loss: 1.5811 Gaze Loss: 0.2616 
+train Tot Loss: 1.6057 Gaze Loss: 0.2560 
+train Tot Loss: 1.6352 Gaze Loss: 0.2487 
+train Tot Loss: 1.5976 Gaze Loss: 0.2518 
+train Tot Loss: 1.6831 Gaze Loss: 0.2502 
+train Tot Loss: 1.7008 Gaze Loss: 0.2488 
+train Tot Loss: 1.5846 Gaze Loss: 0.2466 
+train Tot Loss: 1.6811 Gaze Loss: 0.2485 
+train Tot Loss: 1.6660 Gaze Loss: 0.2449 
+train Tot Loss: 1.4873 Gaze Loss: 0.2499 
+train Tot Loss: 1.5796 Gaze Loss: 0.2599 
+Step 6708/64000.0
+0.001
+----------
+train Tot Loss: 0.3164 Gaze Loss: 0.0534 
+train Tot Loss: 1.5966 Gaze Loss: 0.2721 
+train Tot Loss: 1.5935 Gaze Loss: 0.2626 
+train Tot Loss: 1.5845 Gaze Loss: 0.2605 
+train Tot Loss: 1.7279 Gaze Loss: 0.2541 
+train Tot Loss: 1.6958 Gaze Loss: 0.2394 
+train Tot Loss: 1.5517 Gaze Loss: 0.2309 
+train Tot Loss: 1.5535 Gaze Loss: 0.2438 
+train Tot Loss: 1.4837 Gaze Loss: 0.2539 
+train Tot Loss: 1.5275 Gaze Loss: 0.2576 
+train Tot Loss: 1.7258 Gaze Loss: 0.2664 
+train Tot Loss: 1.6073 Gaze Loss: 0.2622 
+train Tot Loss: 1.5827 Gaze Loss: 0.2571 
+train Tot Loss: 1.5974 Gaze Loss: 0.2583 
+train Tot Loss: 1.6463 Gaze Loss: 0.2491 
+train Tot Loss: 1.5879 Gaze Loss: 0.2525 
+train Tot Loss: 1.5505 Gaze Loss: 0.2524 
+train Tot Loss: 1.5851 Gaze Loss: 0.2521 
+Step 6880/64000.0
+0.001
+----------
+train Tot Loss: 1.5362 Gaze Loss: 0.2593 
+train Tot Loss: 1.4312 Gaze Loss: 0.2628 
+train Tot Loss: 1.6103 Gaze Loss: 0.2629 
+train Tot Loss: 1.6366 Gaze Loss: 0.2542 
+train Tot Loss: 1.4635 Gaze Loss: 0.2486 
+train Tot Loss: 1.6614 Gaze Loss: 0.2570 
+train Tot Loss: 1.5238 Gaze Loss: 0.2589 
+train Tot Loss: 1.6921 Gaze Loss: 0.2635 
+train Tot Loss: 1.6615 Gaze Loss: 0.2470 
+train Tot Loss: 1.5962 Gaze Loss: 0.2510 
+train Tot Loss: 1.6979 Gaze Loss: 0.2393 
+train Tot Loss: 1.6444 Gaze Loss: 0.2366 
+train Tot Loss: 1.5013 Gaze Loss: 0.2364 
+train Tot Loss: 1.6397 Gaze Loss: 0.2426 
+train Tot Loss: 1.5144 Gaze Loss: 0.2492 
+train Tot Loss: 1.4349 Gaze Loss: 0.2576 
+train Tot Loss: 1.5709 Gaze Loss: 0.2759 
+Step 7052/64000.0
+0.001
+----------
+train Tot Loss: 1.1955 Gaze Loss: 0.2203 
+train Tot Loss: 1.5457 Gaze Loss: 0.2789 
+train Tot Loss: 1.6086 Gaze Loss: 0.2661 
+train Tot Loss: 1.5600 Gaze Loss: 0.2624 
+train Tot Loss: 1.4744 Gaze Loss: 0.2535 
