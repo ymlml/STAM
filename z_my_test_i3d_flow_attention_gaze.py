@@ -57,7 +57,7 @@ def load_video_frames(video_path, start, end):
     a_frames = []
     for ii in range(start, end):
         imgx = cv2.imread(os.path.join(video_path, str(ii).zfill(6) + 'x.jpg'), cv2.IMREAD_GRAYSCALE)
-        imgy = cv2.imread(os.path.join(video_path, str(ii).zfill(6) + 'y.jpg'), cv2.IMREAD_GRAYSCALE)  # flow images are already 320x240
+        imgy = cv2.imread(os.path.join(video_path, str(ii).zfill(6) + 'y.jpg'), cv2.IMREAD_GRAYSCALE)  # flow images are 320x240
 
         imgx = (imgx / 255.) * 2 - 1
         imgy = (imgy / 255.) * 2 - 1

@@ -36,7 +36,8 @@ def load_rgb_frames(image_dir, vid, start, num):
   for i in range(start, start+num):
     #img = cv2.imread(os.path.join(image_dir, vid, vid+'-'+str(i).zfill(6)+'.jpg'))[:, :, [2, 1, 0]]
     img = cv2.imread(os.path.join(vid, str(i).zfill(6) + '.jpg'))[:, :, [2, 1, 0]]
-    img = cv2.resize(img,dsize=(0,0),fx=0.5,fy=0.5) #640x480 --> 320x240
+    if img.shape[0] != 240 or img.shape[1] != 320:
+        img = cv2.resize(img, dsize=(320, 240))  # --> 320x240 if needed
 
     w,h,c = img.shape
     if w < 226 or h < 226:
@@ -56,7 +57,7 @@ def load_flow_frames(image_dir, vid, start, num):
     #imgx = cv2.imread(os.path.join(image_dir, vid, vid+'-'+str(i).zfill(6)+'x.jpg'), cv2.IMREAD_GRAYSCALE)
     #imgy = cv2.imread(os.path.join(image_dir, vid, vid+'-'+str(i).zfill(6)+'y.jpg'), cv2.IMREAD_GRAYSCALE)
     imgx = cv2.imread(os.path.join(vid, str(i).zfill(6) + 'x.jpg'), cv2.IMREAD_GRAYSCALE)
-    imgy = cv2.imread(os.path.join(vid, str(i).zfill(6) + 'y.jpg'), cv2.IMREAD_GRAYSCALE) #flow images are already 320x240
+    imgy = cv2.imread(os.path.join(vid, str(i).zfill(6) + 'y.jpg'), cv2.IMREAD_GRAYSCALE) #flow images are 320x240
 
     w,h = imgx.shape
     if w < 224 or h < 224:

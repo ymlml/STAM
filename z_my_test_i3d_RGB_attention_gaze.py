@@ -57,7 +57,8 @@ def load_video_frames(video_path, start, end):
     a_frames = []
     for ii in range(start, end):
         imgg = cv2.imread(os.path.join(video_path, str(ii).zfill(6) + '.jpg'))[:, :, [2, 1, 0]]
-        imgg = cv2.resize(imgg, dsize=(0, 0), fx=0.5, fy=0.5)  # 640x480 --> 320x240
+        if imgg.shape[0]!=240 or imgg.shape[1]!=320:
+            imgg = cv2.resize(imgg, dsize=(320, 240))  # --> 320x240 if needed
 
         imgg = (imgg / 255.) * 2 - 1
         a_frames.append(imgg)
