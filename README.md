@@ -12,7 +12,7 @@ This code is tested for Pytorch 1.0.0 and python 2.7.14 on Ubuntu 16.04.
 
 The pre-processed optical flow images, files of gaze locations can be downloaded from the following links.
 
-Google drive: [gaze data](), [flow images]()
+Google drive: [gaze data](https://drive.google.com/file/d/1zV4pJ6ub1jEJdrYXNpnmkZ2ppF-39KJc/view?usp=sharing), [flow images](https://drive.google.com/file/d/1lJIYsvzGad34otpLmnzKjcD_oy12Rjh3/view?usp=sharing)
 
 
 Extract the files to the "./dataset/EGTEA_Gaze_plus/" folder.
