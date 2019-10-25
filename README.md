@@ -1,3 +1,3 @@
-# STAM
+# Learning Spatiotemporal Attention for Egocentric Action Recognition
 coming soon...
 Thanks
