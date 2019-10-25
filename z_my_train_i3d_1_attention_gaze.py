@@ -1,3 +1,5 @@
+from __future__ import print_function
+
 import os
 os.environ["CUDA_DEVICE_ORDER"]="PCI_BUS_ID"   
 #os.environ["CUDA_VISIBLE_DEVICES"]='0,1,2,3'
@@ -34,7 +36,7 @@ n_wkers = 2
 b_sz = 12
 mx_steps = 64e3
 
-# Set random seem for reproducibility
+# try to set random seed
 manualSeed = 922
 print("Random Seed: ", manualSeed)
 torch.manual_seed(manualSeed)
@@ -82,9 +84,9 @@ def run(init_lr=0.1, max_steps=64e3, mode='rgb', batch_size=b_sz, save_model='')
     steps = 0
     # train it
     while steps < max_steps:#for epoch in range(num_epochs):
-        print 'Step {}/{}'.format(steps, max_steps)
-        print optimizer.param_groups[0]['lr']
-        print '-' * 10
+        print('Step {}/{}'.format(steps, max_steps))
+        print(optimizer.param_groups[0]['lr'])
+        print('-' * 10)
 
         # Each epoch has a training and validation phase
         for phase in ['train']:
@@ -159,7 +161,7 @@ def run(init_lr=0.1, max_steps=64e3, mode='rgb', batch_size=b_sz, save_model='')
                     optimizer.zero_grad()
                     lr_sched.step()
                     if steps % 10 == 0:
-                        print '{} Tot Loss: {:.4f} Gaze Loss: {:.4f} '.format(phase, tot_loss/10, tot_gaze_loss/10)
+                        print('{} Tot Loss: {:.4f} Gaze Loss: {:.4f} '.format(phase, tot_loss/10, tot_gaze_loss/10))
                         if steps % 1000 == 0:
                             # save model
                             torch.save(i3d.module.state_dict(), save_model+str(steps).zfill(6)+'.pt')

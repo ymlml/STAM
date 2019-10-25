@@ -1,3 +1,5 @@
+from __future__ import print_function
+
 import cv2
 import os
 import numpy as np
@@ -42,7 +44,7 @@ with open(test_split, 'r') as f:
     lines = f.readlines()
 
 num_instances = len(lines)
-print num_instances
+print(num_instances)
 
 test_transforms = transforms.Compose([videotransforms_attention.CenterCrop(224)])
 
@@ -87,17 +89,17 @@ with torch.no_grad():
 
         vid_path = os.path.join(root, vid_folder, vid)
         if not os.path.exists(vid_path):
-            print 'no video input'
+            print('no video input')
             continue
         num_frames = len(os.listdir(vid_path))
 
         if g_mode == 'flow':
             num_frames = num_frames // 2
 
-        print vid, num_frames
+        print(vid, num_frames)
 
         if num_frames < g_clip_length:
-            print 'input video too short'
+            print('input video too short')
             #continue
 
         all_frames = load_video_frames(vid_path, 1, num_frames+1)
@@ -143,17 +145,17 @@ with torch.no_grad():
         all_scores[ixx] = score.cpu().numpy()
         gggg_labels[ixx] = gt_label
 
-        print torch.max(score, dim=0)[1].item(), gt_label
-        print 'xxxxxxxxxxxxxxxx'
+        print(torch.max(score, dim=0)[1].item(), gt_label)
+        print('xxxxxxxxxxxxxxxx')
 
-    print cnt, num_instances
-    print sum(class_correct), sum(class_total)
+    print(cnt, num_instances)
+    print(sum(class_correct), sum(class_total))
 
-    print 'Accuracy'
-    print 1.0*cnt/num_instances
+    print('Accuracy')
+    print(1.0*cnt/num_instances)
 
-    print 'Mean Class Accuracy'
-    print sum(class_correct/class_total) / g_num_classes
+    print('Mean Class Accuracy')
+    print(sum(class_correct/class_total) / g_num_classes)
 
     #print class_correct
     #print class_total
@@ -161,7 +163,7 @@ with torch.no_grad():
 
 
 end_time = time.time()
-print 'time: ', end_time - start_time
+print('time: ', end_time - start_time)
 
 
 np.savetxt('scores/flow.txt', all_scores)

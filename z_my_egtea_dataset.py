@@ -1,3 +1,5 @@
+from __future__ import print_function
+
 import torch
 import torch.utils.data as data_utl
 from torch.utils.data.dataloader import default_collate
@@ -12,7 +14,7 @@ import os.path
 
 import cv2
 
-# Set random seem for reproducibility
+# try to set random seed
 manualSeed = 922
 print("Random Seed: ", manualSeed)
 random.seed(manualSeed)
@@ -90,7 +92,7 @@ def make_dataset(split_file, split, root, mode, num_classes=106):
 
         vid_path = os.path.join(root, vid_folder, vid)
         if not os.path.exists( vid_path ):
-            print 'no video input'
+            print('no video input')
             continue
         num_frames = len(os.listdir( vid_path ))
 
@@ -98,7 +100,7 @@ def make_dataset(split_file, split, root, mode, num_classes=106):
             num_frames = num_frames//2
 
         if num_frames < 16:
-            print 'input video too short'
+            print('input video too short')
             continue
 
         label = np.zeros((num_classes,num_frames), np.float32)
