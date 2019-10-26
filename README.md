@@ -21,7 +21,7 @@ Extract the files to the "./dataset/EGTEA_Gaze_plus/" folder.
 
 Example:
 ```bash
-python z_my_test_i3d_flow.py
+python z_my_test_i3d_flow_attention_gaze.py
 ```
 This will finally print results like:
 ```bash
