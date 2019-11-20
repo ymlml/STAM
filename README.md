@@ -41,9 +41,9 @@ Run the bash file [run.sh](run.sh) to train the model:
 
 The .sh file calls the following scipts for training, please choose from 1 of the 4 lines of code.
 
-[z_my_train_i3d_1.py](z_my_train_i3d_1.py) contains the code to fine-tune the I3D for egocentric action recognition, based on the model pre-trained on imagenet and kinetics (see the [original implementation](https://github.com/piergiaj/pytorch-i3d) for details). This code can produce the "RGB-o" and "flow-o" models as discribed in the paper.
+[z_my_train_i3d_1.py](z_my_train_i3d_1.py) contains the code to fine-tune the I3D for egocentric action recognition, based on the model pre-trained on imagenet and kinetics (see the [original implementation](https://github.com/piergiaj/pytorch-i3d) for details). This code can produce the "RGB-o" and "flow-o" models as described in the paper.
 
-[z_my_train_i3d_1_attention_gaze.py](z_my_train_i3d_1_attention_gaze.py) contains the code to train the "RGB-a" and "flow-a" models, which contrain the STAM and use gaze information as supervision.
+[z_my_train_i3d_1_attention_gaze.py](z_my_train_i3d_1_attention_gaze.py) contains the code to train the "RGB-a" and "flow-a" models, which use the STAM with gaze information as supervision.
 
 
 
